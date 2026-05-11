@@ -1,10 +1,10 @@
-import ColorPicker from "./components/reactSelect/index.tsx";
+import MultiSelectColorPicker from "./components/reactSelect/MultiSelectColorPicker.tsx";
 
 function App() {
 
   return (
     <>
-     <ColorPicker/>
+     <MultiSelectColorPicker/>
     </>
   )
 }
