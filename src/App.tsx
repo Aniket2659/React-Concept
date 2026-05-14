@@ -1,10 +1,10 @@
-import CustomMultiSelect from "./components/reactSelect/CustomMultiselect.tsx";
+import Register from "./components/reactHookForm/Register.tsx";
 
 function App() {
 
   return (
     <>
-     <CustomMultiSelect/>
+     <Register/>
     </>
   )
 }
