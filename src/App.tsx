@@ -1,10 +1,10 @@
-import Register from "./components/reactHookForm/Register.tsx";
+import UseFormWithController from "./components/reactUseForm/UseFormWithController.tsx";
 
 function App() {
 
   return (
     <>
-     <Register/>
+     <UseFormWithController/>
     </>
   )
 }
